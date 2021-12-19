@@ -1,0 +1,15 @@
+// Uppy Uploader
+@import "@uppy/core/dist/style.css";
+@import "@uppy/dashboard/dist/style.css";
+@import "@uppy/webcam/dist/style.css";
+
+// Quill editor
+@import "quill/dist/quill.core.css";
+@import "quill/dist/quill.snow.css";
+
+// Perfect Scroll
+@import "vue2-perfect-scrollbar/dist/vue2-perfect-scrollbar.css";
+
+body {
+    font-family: sans-serif !important;
+}
