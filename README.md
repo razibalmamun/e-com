@@ -1,6 +1,3 @@
-# e-com
-This is assignment of weDevs.
-
 Admin:
 http://localhost:3000/auth/login
 
